@@ -1,0 +1,14 @@
+.jumbotron{
+    margin-top: 20px;
+    padding: 30px 30px;
+    background: #c7c7c7;
+}
+.btn-primary{
+    background: #053850;
+    border-color: #053850;
+    color: whitesmoke;
+    font-weight: 600;
+}
+.btn-primary:hover{
+    background: #001f2e;
+}
